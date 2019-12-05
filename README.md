@@ -65,6 +65,6 @@ Contributions are what make the open source community such an amazing place to b
 
 Anitra McCain - [Github](https://github.com/an1tra) - anitra.oursky@gmail.com
 
-Project Link: [https://github.com/an1tra/Basic-Portfolio](https://github.com/an1tra/Basic-Portfolio)
+Project Link: [https://an1tra.github.io/Basic-Portfolio/index.html](https://an1tra.github.io/Basic-Portfolio/index.html)
 
 
