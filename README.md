@@ -12,7 +12,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![image](https://user-images.githubusercontent.com/25800122/70263565-ac1d6f00-1764-11ea-989a-aafcd59da4aa.png)
+![image](https://user-images.githubusercontent.com/25800122/70275374-070e9080-177c-11ea-8749-e6dcbb9cbfef.png)
 
 This project builds a basic portfolio to showcase your work throughout the coding boot camp. 
 
