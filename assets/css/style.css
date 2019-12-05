@@ -48,7 +48,7 @@ header nav ul li {
     margin-left: 100px;
     background-color: #4aaaa5;
     color: white; 
-    padding: 17px;
+    padding: 20px;
     font-weight: bold;
 }
 
@@ -116,7 +116,27 @@ div.gallery {
 
 
 /* Contact Styling */
+.contact-section {
+    margin: 20px auto;
+    width: 960px;
+    background: white;
+    color: #666;
+    padding: 20px;
+    border: 1px solid #ddd;
 
+}
+
+input, textarea {
+    width: 100%;
+}
+
+button {
+    background: #4aaaa5;
+    border: 1px solid #4aaaa5;
+    color: white;
+    padding: 5px;
+    width: 100px;
+}
 
 
 
