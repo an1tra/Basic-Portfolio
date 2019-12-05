@@ -12,7 +12,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![image](https://user-images.githubusercontent.com/25800122/70263565-ac1d6f00-1764-11ea-989a-aafcd59da4aa.png)
+![image](https://user-images.githubusercontent.com/25800122/70275374-070e9080-177c-11ea-8749-e6dcbb9cbfef.png)
 
 This project builds a basic portfolio to showcase your work throughout the coding boot camp. 
 
@@ -65,6 +65,6 @@ Contributions are what make the open source community such an amazing place to b
 
 Anitra McCain - [Github](https://github.com/an1tra) - anitra.oursky@gmail.com
 
-Project Link: [https://github.com/an1tra/HW-Wireframe](https://github.com/an1tra/HW-Wireframe)
+Project Link: [https://github.com/an1tra/Basic-Portfolio](https://github.com/an1tra/Basic-Portfolio)
 
 
